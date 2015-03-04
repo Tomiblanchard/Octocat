@@ -1,1 +1,1 @@
-Explain what the upstream remote is usually used for, in your own words
+the upstream remote is your main repository, where you keep a clone of your development fork updated, without needing to push to it all the time
